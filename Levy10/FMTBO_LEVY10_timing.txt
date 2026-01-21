@@ -1,0 +1,14 @@
+=== FMTBO Algorithm Timing Stats ===
+Exp 1 Time: 207.69 s
+Exp 2 Time: 223.06 s
+Exp 3 Time: 204.55 s
+Exp 4 Time: 281.97 s
+Exp 5 Time: 244.49 s
+Exp 6 Time: 266.85 s
+Exp 7 Time: 260.64 s
+Exp 8 Time: 225.38 s
+Exp 9 Time: 213.34 s
+Exp 10 Time: 239.75 s
+---
+Avg Time: 236.77 s
+Total Time: 2367.71 s

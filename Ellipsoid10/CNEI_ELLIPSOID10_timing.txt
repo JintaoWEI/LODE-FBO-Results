@@ -1,0 +1,14 @@
+=== CNEI Algorithm Timing Stats ===
+Exp 1 Time: 456.87 s
+Exp 2 Time: 441.74 s
+Exp 3 Time: 431.38 s
+Exp 4 Time: 460.91 s
+Exp 5 Time: 483.76 s
+Exp 6 Time: 467.71 s
+Exp 7 Time: 371.76 s
+Exp 8 Time: 365.34 s
+Exp 9 Time: 356.42 s
+Exp 10 Time: 361.55 s
+---
+Avg Time: 419.74 s
+Total Time: 4197.44 s

@@ -1,0 +1,14 @@
+=== FTSDE Algorithm Timing Stats ===
+Exp 1 Time: 141.38 s
+Exp 2 Time: 122.33 s
+Exp 3 Time: 121.36 s
+Exp 4 Time: 148.70 s
+Exp 5 Time: 119.96 s
+Exp 6 Time: 117.25 s
+Exp 7 Time: 142.47 s
+Exp 8 Time: 129.57 s
+Exp 9 Time: 117.22 s
+Exp 10 Time: 114.59 s
+---
+Avg Time: 127.48 s
+Total Time: 1274.82 s

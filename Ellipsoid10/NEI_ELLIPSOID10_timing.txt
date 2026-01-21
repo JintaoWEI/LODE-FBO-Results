@@ -1,0 +1,14 @@
+=== NEI Algorithm Timing Stats ===
+Exp 1 Time: 254.19 s
+Exp 2 Time: 216.55 s
+Exp 3 Time: 249.15 s
+Exp 4 Time: 216.61 s
+Exp 5 Time: 242.31 s
+Exp 6 Time: 223.91 s
+Exp 7 Time: 223.02 s
+Exp 8 Time: 246.05 s
+Exp 9 Time: 218.43 s
+Exp 10 Time: 249.60 s
+---
+Avg Time: 233.98 s
+Total Time: 2339.83 s

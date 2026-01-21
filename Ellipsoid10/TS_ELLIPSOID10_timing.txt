@@ -1,0 +1,14 @@
+=== TS Algorithm Timing Stats ===
+Exp 1 Time: 137.55 s
+Exp 2 Time: 120.05 s
+Exp 3 Time: 103.22 s
+Exp 4 Time: 105.70 s
+Exp 5 Time: 151.87 s
+Exp 6 Time: 105.13 s
+Exp 7 Time: 110.15 s
+Exp 8 Time: 130.23 s
+Exp 9 Time: 134.83 s
+Exp 10 Time: 111.69 s
+---
+Avg Time: 121.04 s
+Total Time: 1210.42 s

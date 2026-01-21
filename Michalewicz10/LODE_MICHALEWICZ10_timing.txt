@@ -1,0 +1,14 @@
+=== Timing Stats ===
+Exp 1 Time: 443.98 s
+Exp 2 Time: 456.65 s
+Exp 3 Time: 449.06 s
+Exp 4 Time: 469.45 s
+Exp 5 Time: 468.25 s
+Exp 6 Time: 456.39 s
+Exp 7 Time: 450.64 s
+Exp 8 Time: 476.87 s
+Exp 9 Time: 476.09 s
+Exp 10 Time: 468.20 s
+---
+Avg Time: 461.56 s
+Total Time: 4615.59 s

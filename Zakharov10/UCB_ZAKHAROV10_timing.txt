@@ -1,0 +1,14 @@
+=== UCB Algorithm Timing Stats ===
+Exp 1 Time: 114.79 s
+Exp 2 Time: 88.63 s
+Exp 3 Time: 98.80 s
+Exp 4 Time: 108.05 s
+Exp 5 Time: 89.84 s
+Exp 6 Time: 90.14 s
+Exp 7 Time: 101.69 s
+Exp 8 Time: 113.20 s
+Exp 9 Time: 100.88 s
+Exp 10 Time: 101.32 s
+---
+Avg Time: 100.73 s
+Total Time: 1007.34 s

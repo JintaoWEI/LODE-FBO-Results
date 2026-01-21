@@ -1,0 +1,14 @@
+=== CUCB Algorithm Timing Stats ===
+Exp 1 Time: 223.90 s
+Exp 2 Time: 177.43 s
+Exp 3 Time: 201.93 s
+Exp 4 Time: 179.99 s
+Exp 5 Time: 237.16 s
+Exp 6 Time: 197.01 s
+Exp 7 Time: 203.32 s
+Exp 8 Time: 230.87 s
+Exp 9 Time: 214.89 s
+Exp 10 Time: 228.97 s
+---
+Avg Time: 209.55 s
+Total Time: 2095.48 s

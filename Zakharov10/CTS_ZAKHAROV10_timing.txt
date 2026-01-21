@@ -1,0 +1,14 @@
+=== CTS Algorithm Timing Stats ===
+Exp 1 Time: 227.07 s
+Exp 2 Time: 178.87 s
+Exp 3 Time: 233.63 s
+Exp 4 Time: 219.02 s
+Exp 5 Time: 184.01 s
+Exp 6 Time: 208.02 s
+Exp 7 Time: 186.09 s
+Exp 8 Time: 204.74 s
+Exp 9 Time: 209.86 s
+Exp 10 Time: 187.79 s
+---
+Avg Time: 203.91 s
+Total Time: 2039.09 s

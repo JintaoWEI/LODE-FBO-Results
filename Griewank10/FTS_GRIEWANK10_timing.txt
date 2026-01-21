@@ -1,0 +1,14 @@
+=== FTS Algorithm Timing Stats ===
+Exp 1 Time: 73.48 s
+Exp 2 Time: 74.44 s
+Exp 3 Time: 73.01 s
+Exp 4 Time: 76.38 s
+Exp 5 Time: 99.28 s
+Exp 6 Time: 85.87 s
+Exp 7 Time: 72.38 s
+Exp 8 Time: 73.05 s
+Exp 9 Time: 73.62 s
+Exp 10 Time: 91.09 s
+---
+Avg Time: 79.26 s
+Total Time: 792.60 s

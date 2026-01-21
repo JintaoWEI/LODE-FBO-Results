@@ -1,0 +1,14 @@
+=== CGP_TS Landmine Experiment Timing ===
+Exp 1:  700.50s
+Exp 2:  688.55s
+Exp 3:  678.57s
+Exp 4:  645.48s
+Exp 5:  682.46s
+Exp 6:  674.48s
+Exp 7:  732.79s
+Exp 8:  736.90s
+Exp 9:  875.27s
+Exp 10:  714.61s
+---
+Avg:  712.96s
+Total: 7129.61s

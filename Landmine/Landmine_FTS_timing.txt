@@ -1,0 +1,14 @@
+=== FTS Landmine Experiment Timing ===
+Exp 1:  177.72s
+Exp 2:  214.82s
+Exp 3:  221.66s
+Exp 4:  223.49s
+Exp 5:  221.67s
+Exp 6:  210.43s
+Exp 7:  199.75s
+Exp 8:  207.16s
+Exp 9:  208.90s
+Exp 10:  207.92s
+---
+Avg:  209.35s
+Total: 2093.52s

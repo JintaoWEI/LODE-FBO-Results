@@ -1,0 +1,14 @@
+=== SHaRED Landmine Experiment Timing ===
+Exp 1:  338.70s
+Exp 2:  344.60s
+Exp 3:  348.41s
+Exp 4:  339.44s
+Exp 5:  343.59s
+Exp 6:  342.91s
+Exp 7:  341.33s
+Exp 8:  336.43s
+Exp 9:  445.46s
+Exp 10:  413.04s
+---
+Avg:  359.39s
+Total: 3593.90s

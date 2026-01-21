@@ -1,0 +1,14 @@
+=== CGP_NEI Landmine Experiment Timing ===
+Exp 1:  904.44s
+Exp 2:  1076.70s
+Exp 3:  936.70s
+Exp 4:  970.54s
+Exp 5:  976.34s
+Exp 6:  904.32s
+Exp 7:  1004.59s
+Exp 8:  1053.07s
+Exp 9:  1037.59s
+Exp 10:  1005.31s
+---
+Avg:  986.96s
+Total: 9869.59s

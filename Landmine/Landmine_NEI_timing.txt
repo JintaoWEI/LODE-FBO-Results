@@ -1,0 +1,14 @@
+=== NEI Landmine Experiment Timing ===
+Exp 1:  831.23s
+Exp 2:  905.35s
+Exp 3:  909.11s
+Exp 4:  858.03s
+Exp 5:  1041.45s
+Exp 6:  740.08s
+Exp 7:  844.89s
+Exp 8:  884.74s
+Exp 9:  1182.90s
+Exp 10:  1010.66s
+---
+Avg:  920.85s
+Total: 9208.45s

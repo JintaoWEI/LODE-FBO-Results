@@ -1,0 +1,14 @@
+=== FTSDE Landmine Experiment Timing ===
+Exp 1:  245.63s
+Exp 2:  277.51s
+Exp 3:  293.64s
+Exp 4:  342.65s
+Exp 5:  336.69s
+Exp 6:  295.49s
+Exp 7:  284.43s
+Exp 8:  300.02s
+Exp 9:  314.08s
+Exp 10:  281.20s
+---
+Avg:  297.13s
+Total: 2971.34s

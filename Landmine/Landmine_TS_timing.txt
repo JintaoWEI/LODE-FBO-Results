@@ -1,0 +1,14 @@
+=== TS Landmine Experiment Timing ===
+Exp 1:  275.81s
+Exp 2:  302.81s
+Exp 3:  323.72s
+Exp 4:  350.18s
+Exp 5:  323.77s
+Exp 6:  312.79s
+Exp 7:  345.22s
+Exp 8:  314.24s
+Exp 9:  319.06s
+Exp 10:  360.08s
+---
+Avg:  322.77s
+Total: 3227.68s

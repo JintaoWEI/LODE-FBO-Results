@@ -1,0 +1,14 @@
+=== FMTBO Landmine Experiment Timing ===
+Exp 1:  450.93s
+Exp 2:  420.29s
+Exp 3:  411.45s
+Exp 4:  419.01s
+Exp 5:  441.67s
+Exp 6:  381.54s
+Exp 7:  427.80s
+Exp 8:  414.12s
+Exp 9:  414.29s
+Exp 10:  415.39s
+---
+Avg:  419.65s
+Total: 4196.48s

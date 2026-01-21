@@ -1,0 +1,14 @@
+=== UCB Landmine Experiment Timing ===
+Exp 1:  565.51s
+Exp 2:  473.01s
+Exp 3:  506.65s
+Exp 4:  479.02s
+Exp 5:  463.57s
+Exp 6:  511.09s
+Exp 7:  429.33s
+Exp 8:  453.31s
+Exp 9:  494.38s
+Exp 10:  467.40s
+---
+Avg:  484.33s
+Total: 4843.26s

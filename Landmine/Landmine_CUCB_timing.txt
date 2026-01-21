@@ -1,0 +1,14 @@
+=== CGP_UCB Landmine Experiment Timing ===
+Exp 1:  791.98s
+Exp 2:  872.05s
+Exp 3:  923.63s
+Exp 4:  798.16s
+Exp 5:  830.35s
+Exp 6:  848.74s
+Exp 7:  862.02s
+Exp 8:  871.03s
+Exp 9:  805.63s
+Exp 10:  970.46s
+---
+Avg:  857.41s
+Total: 8574.05s
